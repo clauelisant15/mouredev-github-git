@@ -68,3 +68,49 @@ usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            <command> [<args>]
 
 C:\Users\USUARIO>
+C:\Users\USUARIO\Desktop>git status
+warning: could not open directory 'Configuración local/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Datos de programa/': Permission denied
+warning: could not open directory 'Entorno de red/': Permission denied
+warning: could not open directory 'Impresoras/': Permission denied
+warning: could not open directory 'Menú Inicio/': Permission denied
+warning: could not open directory 'Plantillas/': Permission denied
+warning: could not open directory 'Reciente/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../.eclipse/
+        ../.gitconfig
+        ../.p2/
+        ../.tooling/
+        ../.vscode/
+        ../AppData/
+        ../Contacts/
+        ./
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Links/
+        ../Mis documentos/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TM.blf
+        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TMContainer00000000000000000002.regtrans-ms
+        ../OneDrive/
+        ../Pictures/
+        ../Saved Games/
+        ../Searches/
+        ../Videos/
+        ../eclipse-workspace/
+        ../miPrimerProyecto/
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+
+nothing added to commit but untracked files present (use "git add" to track)
