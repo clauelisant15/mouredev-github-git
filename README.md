@@ -1,118 +1,95 @@
-# repositorios
-Microsoft Windows [Versión 10.0.26100.4652]
-(c) Microsoft Corporation. Todos los derechos reservados.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
+ </p>
+	
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-C:\Users\USUARIO>winget install --id Git.Git -e --source winget
-Se encontró un paquete existente ya instalado. Intentando actualizar el paquete instalado...
-No se ha encontrado ninguna actualización disponible.
-No hay versiones más recientes del paquete disponibles en las fuentes configuradas.
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
 
-C:\Users\USUARIO>git
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
-           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
-           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning software architecture
+- 👯 I’m looking to collaborate on your open source projects
+- 💬 Ask me about C#
+- 📫 How to reach me: Contact part
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I never thought I would become a .net programmer!
 
-These are common Git commands used in various situations:
+<br>
 
-start a working area (see also: git help tutorial)
-   clone      Clone a repository into a new directory
-   init       Create an empty Git repository or reinitialize an existing one
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-work on the current change (see also: git help everyday)
-   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
-   restore    Restore working tree files
-   rm         Remove files from the working tree and from the index
+<p align="center">
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
-   diff       Show changes between commits, commit and working tree, etc
-   grep       Print lines matching a pattern
-   log        Show commit logs
-   show       Show various types of objects
-   status     Show the working tree status
+- **Languages**:
+    
+     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+  
+- **Front-End Development**:
 
-grow, mark and tweak your common history
-   backfill   Download missing objects in a partial clone
-   branch     List, create, or delete branches
-   commit     Record changes to the repository
-   merge      Join two or more development histories together
-   rebase     Reapply commits on top of another base tip
-   reset      Reset current HEAD to the specified state
-   switch     Switch branches
-   tag        Create, list, delete or verify a tag object signed with GPG
+   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
 
-collaborate (see also: git help workflows)
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
 
-C:\Users\USUARIO>git --version
-git version 2.50.1.windows.1
+- **Softwares and Tools**:
 
-C:\Users\USUARIO>git -help
-unknown option: -help
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
-           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
-           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
-C:\Users\USUARIO>
-C:\Users\USUARIO\Desktop>git status
-warning: could not open directory 'Configuración local/': Permission denied
-warning: could not open directory 'Cookies/': Permission denied
-warning: could not open directory 'Datos de programa/': Permission denied
-warning: could not open directory 'Entorno de red/': Permission denied
-warning: could not open directory 'Impresoras/': Permission denied
-warning: could not open directory 'Menú Inicio/': Permission denied
-warning: could not open directory 'Plantillas/': Permission denied
-warning: could not open directory 'Reciente/': Permission denied
-warning: could not open directory 'SendTo/': Permission denied
-On branch master
 
-No commits yet
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        ../.eclipse/
-        ../.gitconfig
-        ../.p2/
-        ../.tooling/
-        ../.vscode/
-        ../AppData/
-        ../Contacts/
-        ./
-        ../Documents/
-        ../Downloads/
-        ../Favorites/
-        ../Links/
-        ../Mis documentos/
-        ../Music/
-        ../NTUSER.DAT
-        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TM.blf
-        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TMContainer00000000000000000001.regtrans-ms
-        ../NTUSER.DAT{89a3f7ab-0331-11f0-97b1-2887ba974c33}.TMContainer00000000000000000002.regtrans-ms
-        ../OneDrive/
-        ../Pictures/
-        ../Saved Games/
-        ../Searches/
-        ../Videos/
-        ../eclipse-workspace/
-        ../miPrimerProyecto/
-        ../ntuser.dat.LOG1
-        ../ntuser.dat.LOG2
-        ../ntuser.ini
+ 
 
-nothing added to commit but untracked files present (use "git add" to track)
-#CLAUDIA at repositorios
+<br>
+</p>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+	
+</a>
+</div>
+
+
+
+-----
+
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="https://">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="">
+					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+      </div>
+
+</p>
+
+
+	
+
+</div>
